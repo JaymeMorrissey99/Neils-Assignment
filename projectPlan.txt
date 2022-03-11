@@ -1,0 +1,31 @@
+Project Plan
+
+Dividing up the tasks:
+
+Task Estimation - Peter Largey
+Coding Standards - Jayme Morrissey
+Coding Review - Conor Mongan
+
+Requirements for team members
+
+Each person is required to create their branch off the develop branch
+Is comfortable pulling and pushing to git
+Is comfortable switching between branches 
+Attend each meeting allocated towards the project
+Is comfortable with Markdown formatting and general use
+
+Steps for team members:
+ 
+Gather information from 5 different articles based on their allocated topic
+Review information from selected articles and added additional information to branches
+Commit and push added information into other team members branches
+Review changes and commits made as a team before merging to other branches
+Ensure commit messages are coherent to other team members
+Each member is responsible for formatting and reviewing their own work
+
+
+What we would do differently
+
+Overall the project went well. Things that we would do differently would be to do further extensive research on the articles to create a more extensive handbook.
+Other then the two changes outlined above we wouldn't change anything else.
+
