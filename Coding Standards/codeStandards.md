@@ -45,6 +45,9 @@ Methods refer to some sort of functionality performed by the object of the class
 Method names in Java are written in camel case - the first letter of the first word is in lowercase and the first letter of the remaining word in method name is capital.
 For example, a method for the Car class would be called startCar, instead of Start or StartCar.
 
+## Naming Attributes/Member Variables
+Attributes and member variables should be named singular nouns. For example, a Car class can have several attributes/variables. These can be called names such as “name”, “model”, “registration” etc.
+
 
 
 ## Article/Blog Links
