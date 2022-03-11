@@ -7,6 +7,16 @@ A coding standard document tells a developer how they should be writing their co
 
 This makes sure that all large projects are coded in a consistent style and ensures easier readability and avoids confusion between developers.
 
+
+## Advantages of Implementing Coding Standards
+- Offers uniformity to the code
+- Enables the create of reusable code
+- Makes errors easier to detect.
+- Improves readability, makes code easier to maintain
+- Improves programmers efficiency, helps generate faster results
+
+
+
 ## Article/Blog Links
 
 https://blog.fossasia.org/why-coding-standards-matter/
