@@ -71,6 +71,23 @@ Code reviews are a great opportunity for each member to expand their knowledge ,
 - Strive to improve
 
 
+#### **Reviewer**
+
+##### **Do:**
+- Be polite , helpful and humble.
+- ”If it's not broke don't fix it” - if the solution isn't wrong then leave it.
+- Ask questions when you are unsure of something.
+- Give praise where it's due - Make sure you are recognising the good code and not just the bad code.
+- Use checklists - This will speed up the process , for example: (1)check style ,2) naming convention ,3) test cases ,etc )
+- Write comments that you would like to see on your own code.
+- Make sure you put in sufficient time, the project's success depends on all members including you.
+
+
+Here is some nice advice from Håkon Åmdal, self described as a Digital nomad and Software Engineer in Spacemaker AI. 
+
+“One of my most effective tricks in code reviews is to replace all occurrences of «I»/«me» and «you» with «we»/«us». Such a small trick changes the attitude from «someone is scrutinizing and criticizing my work» to «I am getting feedback such that my team can ship the best possible services and apps possible!».”
+
+
 
 ##### Articles for further reading:
 
