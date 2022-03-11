@@ -11,6 +11,11 @@ It is important during task estimation to calculate the amount of work the team 
 
 # Best Practices for Task Estimation:
 
+Task Estimation for the Sprint should take place during the Sprint Planning Meeting with the whole team being present at the meeting.
+
+The Scrum Master should have the Sprint Backlog prepared for the Sprint Planning Meeting.
+
+
 
 
 
