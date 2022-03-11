@@ -45,6 +45,22 @@ Code reviews are a great opportunity for each member to expand their knowledge ,
 
 - Use checklists - By using checklists like this one , remind the reviewer and author on what to be looking out for while conducting a code review which will improve their personal coding abilities.
 
+### **Do’s and Don'ts of code reviews**
+
+#### **Author**
+
+##### **Do:**
+
+- Be polite
+- Be thankful
+- Clarify any solutions you don't agree with or don’t understand directly.
+- Leave explanations where suitable for code that is complex and or spans multiple pages or classes.
+- Have descriptive , meaningful commit messages.
+- Commit your changes after the code review to show the team what has changed.
+- Answer as many comments as possible and give thanks when it's due.
+- Acknowledge comments even if you don't agree with them.
+
+
 
 ##### Articles for further reading:
 
