@@ -18,6 +18,34 @@ A code review is a common software quality assurance activity that involves read
 - Minimizes the impact of mistakes - Anyone who has spent time coding has experienced migraines or strained eyes from sitting , looking at their work too long. Code reviews offer a fresh set of eyes to analyze the code and eradicate any bugs before the problem gets out of hand. This ensures the project can progress more efficiently.
 
 
+### **How to perform a code review?**
+
+- Author self assessment - Ensure the owner has read through and left comments in the source code before submitting to the team. This can minimize defects and save time.
+
+- Define quantifiable outcomes - When clear goals are set , it increases each member's accountability. Avoid vague statements such as “fix bugs”
+
+- Create a system to record outcomes- Quantifiable metrics or data is what is needed in order to assess how effective the team code review process is.
+
+- Have set time allocated - Make sure sufficient time is given for the review process .Typically a code review should not be longer than 1-1.5 hours. Its should be done slowly so details are not missed.
+
+- Review all project documents - Project requirements and design documentation should also be reviewed so that all team members are clear on what that assignment is asking. 
+
+- Take regular breaks - Take breaks every 20-30 minutes. You should not review more than 300-500 lines of code an hour.
+
+- Ensure identified bugs are fixed - All defects that are identified must be fixed as soon as possible. 
+ 
+-  Use the opportunity to improve the skill of all members-
+Code reviews are a great opportunity for each member to expand their knowledge , correct their bad habits and further their review capabilities.
+
+- Don't take the back seat - Trust your team and don't make life harder by over analyzing their code and work through the process.
+
+- Carry out smaller reviews at regular intervals - If the team is aware that their code will be reviewed frequently , they will be more inclined to review it themselves before its submission.
+
+- Utilize code review tools - This increases efficiency and accuracy and optimizes the time spent by your team members reviewing the code.
+
+- Use checklists - By using checklists like this one , remind the reviewer and author on what to be looking out for while conducting a code review which will improve their personal coding abilities.
+
+
 ##### Articles for further reading:
 
 https://www.brightspot.com/learn/articles/5-reasons-why-the-code-review-process-is-critical-for-developers#:~:text=Code%20review%20helps%20give%20a,and%20identifying%20errors%20is%20great.
