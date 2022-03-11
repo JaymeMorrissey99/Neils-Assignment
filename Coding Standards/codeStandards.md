@@ -21,6 +21,12 @@ As much as you might like coding by yourself, there comes a time when you will h
 ## Writing Code that’s up to Coding Standards
 Coding Standards aren’t a clear-cut thing, as everyone has a different idea about them. These can differ between coding languages. There are a few basics everyone should follow though.
 
+## Formatting
+Make sure you make the appropriate indentation, add proper amounts of whitespace and continue on new lines to ensure your code is readable. Take naming conventions into account when creating new files.
+Portability
+It’s extremely important that your code is written in a way so it’s easily moved between platforms - no hardcoded values - these would break when used in other platforms.
+Modularity
+Try and write code that’s usable by itself and doesn’t rely on anything written by someone else. These dependencies can break easily
 
 ## Article/Blog Links
 
