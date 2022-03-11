@@ -23,10 +23,19 @@ Coding Standards aren’t a clear-cut thing, as everyone has a different idea ab
 
 ## Formatting
 Make sure you make the appropriate indentation, add proper amounts of whitespace and continue on new lines to ensure your code is readable. Take naming conventions into account when creating new files.
-Portability
+
+## Portability
 It’s extremely important that your code is written in a way so it’s easily moved between platforms - no hardcoded values - these would break when used in other platforms.
-Modularity
-Try and write code that’s usable by itself and doesn’t rely on anything written by someone else. These dependencies can break easily
+
+## Modularity
+Try and write code that’s usable by itself and doesn’t rely on anything written by someone else. These dependencies can break easily.
+
+## Style Guide
+If you work as part of a team, consider creating a style guide that leans heavily on common code conventions. Consistency is always more important than following the rules.
+
+## Naming Classes
+The name of a class should purely be a noun. A class represents an entity in a software application. A class should not consist of more then one word. An example: naming a class “Car” instead of DrivingCar.
+
 
 ## Article/Blog Links
 
