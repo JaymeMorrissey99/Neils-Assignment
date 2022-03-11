@@ -31,7 +31,8 @@ If there are additional tasks that have been moved to the next sprint in the Pro
 
 If a user story has become more complex as it is being developed and the team member assigned to the user story feels that the estimate needs to be updated they should explain their reasons for this estimation change at the next Daily Stand Up Meeting. 
 
-
+At the end of the Sprint the team must complete a Sprint Retrospective Meeting to examine their Sprint Velocity, this can help to improve task estimation in the future. 
+This gives the Product Owner and other stakeholders an idea of the project duration. 
 
 
 ## Article Links
