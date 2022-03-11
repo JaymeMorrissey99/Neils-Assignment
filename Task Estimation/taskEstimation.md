@@ -4,6 +4,11 @@ Task Estimation is the Scrum technique used to estimate the length of time a pie
 
 The objective is to estimate the amount of time a user story will take to complete based on the priority, complexity or scale of a story and by the time box of the Sprint.
 
+Story Points are the designation given to the amount of time to be allocated to a user story. Story Points are used to understand the relative levels of effort for a user story in comparison to other user stories.
+
+It is important during task estimation to calculate the amount of work the team working on the sprint can achieve during the timebox of the sprint.
+
+
 # Best Practices for Task Estimation:
 
 
