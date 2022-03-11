@@ -15,6 +15,11 @@ This makes sure that all large projects are coded in a consistent style and ensu
 - Improves readability, makes code easier to maintain
 - Improves programmers efficiency, helps generate faster results
 
+## Helps Collaboration
+As much as you might like coding by yourself, there comes a time when you will have to share your production with others. There’s also the possibility you will have to look at their code — especially working in a team, where second opinions are vital to a great-working product. This is when you’ll realize that not everyone writes their code the same way, and you’ll start to think everyone but you is doing it wrong.
+
+## Writing Code that’s up to Coding Standards
+Coding Standards aren’t a clear-cut thing, as everyone has a different idea about them. These can differ between coding languages. There are a few basics everyone should follow though.
 
 
 ## Article/Blog Links
