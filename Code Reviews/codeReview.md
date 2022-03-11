@@ -87,6 +87,16 @@ Here is some nice advice from Håkon Åmdal, self described as a Digital nomad a
 
 “One of my most effective tricks in code reviews is to replace all occurrences of «I»/«me» and «you» with «we»/«us». Such a small trick changes the attitude from «someone is scrutinizing and criticizing my work» to «I am getting feedback such that my team can ship the best possible services and apps possible!».”
 
+##### **Don’t:** 
+
+- Use words like always or never.
+- Don’t insult people
+- Use jokes or sarcasm as they can be misinterpreted.
+- Assume anything.
+- Blame team members.
+- Leave negative comments such as “this is wrong” , “do it this way”
+
+
 
 
 ##### Articles for further reading:
