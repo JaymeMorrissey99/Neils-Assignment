@@ -60,6 +60,16 @@ Code reviews are a great opportunity for each member to expand their knowledge ,
 - Answer as many comments as possible and give thanks when it's due.
 - Acknowledge comments even if you don't agree with them.
 
+##### **Don’t:**
+
+- Take comments to heart. It is not personal.
+- Insult people.
+- Assume anything.
+- Misinterpret comments -If comments seem personal or insulting , take a step back and read it again.
+-  Make jokes or be sarcastic
+- Shift blame to others - avoid “I copied this from _____ “ or “He/She did it this way so I did too”. 
+- Strive to improve
+
 
 
 ##### Articles for further reading:
