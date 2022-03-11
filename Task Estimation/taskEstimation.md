@@ -8,6 +8,10 @@ Story Points are the designation given to the amount of time to be allocated to 
 
 It is important during task estimation to calculate the amount of work the team working on the sprint can achieve during the timebox of the sprint.
 
+To calculate the number of story points a team can complete during a sprint you add the number of days each team member is available during the course of the sprint. i.e. Over a two week sprint there are ten working days (Mon - Fri). If there are 6 team members the team has a capacity of 60 story points. However if there are events such as PTO, training, scheduled appointments or planned company days the capacity should be adjusted.
+
+It is important to remember that the figures given for each user story are an estimate and shouldnt be considered as cast in stone, as the user story is developed there may be additional work required as a result of the changes being made.
+
 
 # Best Practices for Task Estimation:
 
