@@ -36,6 +36,11 @@ If you work as part of a team, consider creating a style guide that leans heavil
 ## Naming Classes
 The name of a class should purely be a noun. A class represents an entity in a software application. A class should not consist of more then one word. An example: naming a class “Car” instead of DrivingCar.
 
+## Naming Interfaces
+By convention, the first letter of an interface should be capital. Interface names should ideally be adjectives and should generally end with the prefix “able”.
+For example, adding onto the “Car” class. A car can be converted into a different vehicle - Motorbike, Truck etc. The “Car” class should implement an interface called Convertible. This interface would contain methods that contain code to convert the Car class instance to another vehicle type instance.
+
+
 
 ## Article/Blog Links
 
