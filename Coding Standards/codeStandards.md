@@ -48,6 +48,11 @@ For example, a method for the Car class would be called startCar, instead of Sta
 ## Naming Attributes/Member Variables
 Attributes and member variables should be named singular nouns. For example, a Car class can have several attributes/variables. These can be called names such as “name”, “model”, “registration” etc.
 
+## Using Getters/Setters
+Attributes/Variables of a class should never be publicly exposed. Accessors (Getters) and Mutators (Setters) should be used instead.
+Accessors and Mutators should be used to get and set the values of the attributes of a class.
+Accessors and Mutators are used to force data encapsulation which is one of the three basic pillars of object oriented programming with polymorphism and inheritance being the other two
+
 
 
 ## Article/Blog Links
