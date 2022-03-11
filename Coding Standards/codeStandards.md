@@ -40,6 +40,11 @@ The name of a class should purely be a noun. A class represents an entity in a s
 By convention, the first letter of an interface should be capital. Interface names should ideally be adjectives and should generally end with the prefix “able”.
 For example, adding onto the “Car” class. A car can be converted into a different vehicle - Motorbike, Truck etc. The “Car” class should implement an interface called Convertible. This interface would contain methods that contain code to convert the Car class instance to another vehicle type instance.
 
+## Naming Methods
+Methods refer to some sort of functionality performed by the object of the class that contains that method. Logically, a method name should be a verb. A method should be readable enough that it conveys the functionality that it actually encapsulates.
+Method names in Java are written in camel case - the first letter of the first word is in lowercase and the first letter of the remaining word in method name is capital.
+For example, a method for the Car class would be called startCar, instead of Start or StartCar.
+
 
 
 ## Article/Blog Links
