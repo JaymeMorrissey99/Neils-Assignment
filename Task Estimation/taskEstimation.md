@@ -27,6 +27,10 @@ A typical Sprint should have a timebox of two weeks.
 
 The team must come to a consensus on the number of story points allocated to a user story by means of voting. If an explanation for a suggested value is required by the scrum master, the team member should provide the relevant reasons for their suggested number of story points. 
 
+If there are additional tasks that have been moved to the next sprint in the Product Backlog but the team has available capacity they should pull in additional user stories into the Sprint Backlog. 
+
+If a user story has become more complex as it is being developed and the team member assigned to the user story feels that the estimate needs to be updated they should explain their reasons for this estimation change at the next Daily Stand Up Meeting. 
+
 
 
 
