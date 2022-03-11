@@ -19,6 +19,13 @@ Task Estimation for the Sprint should take place during the Sprint Planning Meet
 
 The Scrum Master should have the Sprint Backlog prepared for the Sprint Planning Meeting.
 
+Story Points should be based on a numeric sizing system from 1 to 10 and should have a value of 1 Story Point is equal to 1 day of work.
+
+The team should calculate their capacity before applying story points to user stories.
+
+A typical Sprint should have a timebox of two weeks.
+
+The team must come to a consensus on the number of story points allocated to a user story by means of voting. If an explanation for a suggested value is required by the scrum master, the team member should provide the relevant reasons for their suggested number of story points. 
 
 
 
